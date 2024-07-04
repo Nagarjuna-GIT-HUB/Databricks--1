@@ -38,3 +38,8 @@ df1 = df.write.mode("overwrite").saveAsTable("Dept")
 
 # MAGIC %sql
 # MAGIC create database Itsector ;
+
+# COMMAND ----------
+
+# MAGIC %sql
+# MAGIC
